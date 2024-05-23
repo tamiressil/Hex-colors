@@ -4,7 +4,7 @@
 
  - Projeto de JavaScript - 2.
   
- - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
+ - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
    
    
 ## Tecnologias Aprendidas:
