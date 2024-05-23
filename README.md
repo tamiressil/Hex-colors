@@ -6,7 +6,11 @@
   
  - Projeto construído durante o curso PROPROFISSÃO do Instituto PROA.
    
+ ## Visualize o site no link abaixo:
+ [Veja-o aqui!](https://hex-colors-khaki.vercel.app/)
    
+
+
 ## Tecnologias Aprendidas:
 
  - HTML.
